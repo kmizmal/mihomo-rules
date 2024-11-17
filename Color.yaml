@@ -11,3 +11,14 @@ payload:
   - IP-CIDR,129.227.29.192/32
   - IP-CIDR,142.251.43.10/32
   - IP-CIDR,216.239.35.0/24
+  - PROCESS-NAME,com.heytap.quicksearchbox
+  - PROCESS-NAME,com.coloros.sceneservice
+  - PROCESS-NAME,com.oplus.aiunit
+  - PROCESS-NAME,com.oplus.deepthinker
+  - PROCESS-NAME,com.oplus.metis
+  - PROCESS-NAME,com.oplus.ota
+  - PROCESS-NAME,com.oplus.games
+  - PROCESS-NAME,com.oplus.romupdate
+  - PROCESS-NAME,com.oplus.cosa
+  - PROCESS-NAME,com.coloros.phonemanager
+  
