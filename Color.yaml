@@ -91,6 +91,7 @@ payload:
   - PROCESS-NAME,com.oplus.travelengine
   - PROCESS-NAME,com.oplus.viewtalk
   - PROCESS-NAME,com.qualcomm.atfwd
+  - PROCESS-NAME,com.heytap.htms
   - PROCESS-NAME,com.qualcomm.atfwd2
   - PROCESS-NAME,com.redteamobile.roaming
   - PROCESS-NAME,com.tencent.soter.soterserver
