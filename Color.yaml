@@ -95,3 +95,10 @@ payload:
   - PROCESS-NAME,com.qualcomm.atfwd2
   - PROCESS-NAME,com.redteamobile.roaming
   - PROCESS-NAME,com.tencent.soter.soterserver
+  - PROCESS-NAME,com.oplus.midas
+  - PROCESS-NAME,com.android.launcher
+  - PROCESS-NAME,com.android.systemui
+  - PROCESS-NAME,com.oplus.pantanal.ums
+  - PROCESS-NAME-REGEX,.*logd.*
+  - PROCESS-NAME-REGEX,.*surfaceflinger.*
+  
