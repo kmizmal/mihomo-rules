@@ -43,10 +43,12 @@ payload:
   - PROCESS-NAME,com.coloros.smartsidebar
   - PROCESS-NAME,com.coloros.systemclone
   - PROCESS-NAME,com.heytap.accessory
+  - PROCESS-NAME,com.oplus.keyguard.clock.magazine
   - PROCESS-NAME,com.heytap.mydevices
   - PROCESS-NAME,com.heytap.opluscarlink
   - PROCESS-NAME,com.heytap.pictorial
   - PROCESS-NAME,com.heytap.quicksearchbox
+  - PROCESS-NAME,com.coloros.codebook
   - PROCESS-NAME,com.heytap.speechassist
   - PROCESS-NAME,com.heytap.tas
   - PROCESS-NAME,com.iflytek.speechsuite
@@ -75,7 +77,9 @@ payload:
   - PROCESS-NAME,com.oplus.metis
   - PROCESS-NAME,com.oplus.multiapp
   - PROCESS-NAME,com.oplus.nas
+  - PROCESS-NAME,com.coloros.securepay
   - PROCESS-NAME,com.oplus.ocar
+  - PROCESS-NAME,com.oplus.onetrace
   - PROCESS-NAME,com.oplus.onet
   - PROCESS-NAME,com.oplus.omoji
   - PROCESS-NAME,com.oplus.ovoicemanager.wakeup
@@ -86,6 +90,7 @@ payload:
   - PROCESS-NAME,com.oplus.securitykeyboard
   - PROCESS-NAME,com.oplus.statistics.rom
   - PROCESS-NAME,com.oplus.synergy
+  - PROCESS-NAME,com.oplus.gesture
   - PROCESS-NAME,com.oplus.themestore
   - PROCESS-NAME,com.oplus.thirdkit
   - PROCESS-NAME,com.oplus.travelengine
@@ -103,4 +108,4 @@ payload:
   - PROCESS-NAME,com.oplus.pantanal.ums
   - PROCESS-NAME-REGEX,.*logd.*
   - PROCESS-NAME-REGEX,.*surfaceflinger.*
-  
+  - PROCESS-NAME,com.oneplus.bbs
