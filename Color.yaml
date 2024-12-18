@@ -110,3 +110,6 @@ payload:
   - PROCESS-NAME-REGEX,.*surfaceflinger.*
   - PROCESS-NAME,com.oneplus.bbs
   - DOMAIN-SUFFIX,smartcard.apps.coloros.com
+  - DOMAIN-SUFFIX,cc-open-cdn.heytapdownload.com
+  - DOMAIN-SUFFIX,cc-sv-cn.heytapdownload.com
+  - DOMAIN-SUFFIX,cl-data.ads.heytapmobi.com
