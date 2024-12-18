@@ -109,3 +109,4 @@ payload:
   - PROCESS-NAME-REGEX,.*logd.*
   - PROCESS-NAME-REGEX,.*surfaceflinger.*
   - PROCESS-NAME,com.oneplus.bbs
+  - DOMAIN-SUFFIX,smartcard.apps.coloros.com
