@@ -93,6 +93,7 @@ payload:
   - PROCESS-NAME,com.oplus.gesture
   - PROCESS-NAME,com.oplus.themestore
   - PROCESS-NAME,com.oplus.thirdkit
+  - PROCESS-NAME,com.android.traceur
   - PROCESS-NAME,com.oplus.travelengine
   - PROCESS-NAME,com.oplus.viewtalk
   - PROCESS-NAME,com.qualcomm.atfwd
