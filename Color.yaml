@@ -91,6 +91,7 @@ payload:
   - PROCESS-NAME,com.oplus.statistics.rom
   - PROCESS-NAME,com.oplus.synergy
   - PROCESS-NAME,com.oplus.gesture
+  - PROCESS-NAME,com.oplus.engineermode
   - PROCESS-NAME,com.oplus.themestore
   - PROCESS-NAME,com.oplus.thirdkit
   - PROCESS-NAME,com.android.traceur
