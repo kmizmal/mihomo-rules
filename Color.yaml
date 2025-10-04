@@ -103,7 +103,6 @@ payload:
   - PROCESS-NAME,com.redteamobile.roaming
   - PROCESS-NAME,com.tencent.soter.soterserver
   - PROCESS-NAME,com.oplus.midas
-  - PROCESS-NAME,com.coloros.calendar
   - PROCESS-NAME,com.oplus.powermonitor
   - PROCESS-NAME,com.android.launcher
   - PROCESS-NAME,com.android.systemui
