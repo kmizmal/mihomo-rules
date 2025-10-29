@@ -66,6 +66,8 @@ payload:
   - PROCESS-NAME,com.oplus.cast
   - PROCESS-NAME,com.oplus.cosa
   - PROCESS-NAME,com.oplus.crashbox
+  - PROCESS-NAME,com.oplus.blur
+  - PROCESS-NAME,com.oplus.lfeh
   - PROCESS-NAME,com.oplus.deepthinker
   - PROCESS-NAME,com.oplus.eyeprotect
   - PROCESS-NAME,com.oplus.games
