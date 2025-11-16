@@ -112,6 +112,7 @@ payload:
   - PROCESS-NAME-REGEX,.*logd.*
   - PROCESS-NAME-REGEX,.*surfaceflinger.*
   - PROCESS-NAME,com.oneplus.bbs
+  - PROCESS-NAME,com.android.managedprovisioning
   - DOMAIN-SUFFIX,smartcard.apps.coloros.com
   - DOMAIN-SUFFIX,cc-open-cdn.heytapdownload.com
   - DOMAIN-SUFFIX,cc-sv-cn.heytapdownload.com
