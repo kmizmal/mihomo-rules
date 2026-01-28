@@ -52,7 +52,7 @@ payload:
   - PROCESS-NAME,com.heytap.speechassist
   - PROCESS-NAME,com.heytap.tas
   - PROCESS-NAME,com.iflytek.speechsuite
-  - PROCESS-NAME,com.nearme.instant.platform
+#  - PROCESS-NAME,com.nearme.instant.platform
   - PROCESS-NAME,com.opos.ads
   - PROCESS-NAME,com.oppo.ctautoregist
   - PROCESS-NAME,com.oppo.instant.local.service
