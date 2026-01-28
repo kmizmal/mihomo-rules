@@ -11,6 +11,7 @@ payload:
   - IP-CIDR,129.227.29.192/32
   - IP-CIDR,142.251.43.10/32
   - IP-CIDR,216.239.35.0/24
+  - PROCESS-NAME,com.oplus.athena
   - PROCESS-NAME,andes.oplus.documentsreader
   - PROCESS-NAME,com.aiunit.aon
   - PROCESS-NAME,com.android.adservices.api
