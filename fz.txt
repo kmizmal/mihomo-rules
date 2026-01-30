@@ -1,0 +1,25 @@
+127.0.0.1 gjfzpt.cn
+127.0.0.1 fzapp-test-tyy.gjfzpt.cn
+127.0.0.1 oss.gjfzpt.cn
+127.0.0.1 fzapp.gjfzpt.cn
+127.0.0.1 fzapph5.gjfzpt.cn
+
+#127.0.0.1 gov.cn
+127.0.0.1 miit.gov.cn
+127.0.0.1 mps.gov.cn
+127.0.0.1 beian.miit.gov.cn
+127.0.0.1 ywtbapi.mps.gov.cn
+127.0.0.1 beian.mps.gov.cn
+127.0.0.1 mail.mps.gov.cn
+127.0.0.1 ywtb.mps.gov.cn
+127.0.0.1 ngo.mps.gov.cn
+127.0.0.1 m.mps.gov.cn
+127.0.0.1 dbjb.mps.gov.cn
+127.0.0.1 ispl.mps.gov.cn
+127.0.0.1 ecidewc.mps.gov.cn
+127.0.0.1 cyberpolice.mps.gov.cn
+127.0.0.1 app.mps.gov.cn
+127.0.0.1 zlbj.mps.gov.cn
+127.0.0.1 zwfw.mps.gov.cn
+127.0.0.1 ecidcwc.mps.gov.cn
+127.0.0.1 www.mps.gov.cn
