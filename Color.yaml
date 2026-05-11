@@ -58,7 +58,7 @@ payload:
   - PROCESS-NAME,com.oppo.ctautoregist
   - PROCESS-NAME,com.oppo.instant.local.service
   - PROCESS-NAME,com.oplus.acc.gac
-  - PROCESS-NAME,com.oplus.aiunit
+#  - PROCESS-NAME,com.oplus.aiunit
   - PROCESS-NAME,com.oplus.aod
   - PROCESS-NAME,com.oplus.apprecover
   - PROCESS-NAME,com.oplus.audiomonitor
